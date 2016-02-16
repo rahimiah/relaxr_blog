@@ -90,6 +90,9 @@ p { color: #033048; font-size: 22px;
 
 span { font-size: 40px; }
 
+#hl3 { color: #033048; font-size: 22px;
+     font-weight: lighter; }
+
 .readmore { float: right; font-size: 24px; 
             font-weight: bold; color: #033048; }
 
